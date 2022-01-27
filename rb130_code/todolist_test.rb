@@ -8,7 +8,6 @@ SimpleCov.start
 require_relative 'todo'
 
 class TodoListTest < MiniTest::Test
-
   def setup
     @todo1 = Todo.new("Buy milk")
     @todo2 = Todo.new("Clean room")
