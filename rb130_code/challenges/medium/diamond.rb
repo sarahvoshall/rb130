@@ -30,5 +30,3 @@ class Diamond
     end 
   end
 end
-
-Diamond.make_diamond('A')
