@@ -78,6 +78,6 @@ class Clock
   end
 end
 
-clockie = Clock.at(12, 4) - 290000
+clockie = Clock.at(12, 4) + 79000000
 
 p clockie.to_s

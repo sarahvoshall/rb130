@@ -77,3 +77,5 @@ class RomanNumeral
     roman_numeral
   end
 end
+
+p RomanNumeral.new(1976).to_roman

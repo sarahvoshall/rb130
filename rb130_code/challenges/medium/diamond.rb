@@ -30,3 +30,6 @@ class Diamond
     end 
   end
 end
+
+puts Diamond.make_diamond('C')
+puts Diamond.make_diamond('S')

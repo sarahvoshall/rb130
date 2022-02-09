@@ -60,4 +60,4 @@ class Meetup
   end
 end
 
-p Meetup.new(2020, 4).day('Monday', 'teenth')
+p Meetup.new(2034, 8).day('Friday', 'last')
